@@ -29,4 +29,4 @@ default -> master
 
 only pc -> 
 
-github
+github lecture
