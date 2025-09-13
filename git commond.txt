@@ -1,3 +1,25 @@
+Version Control
+
 -> check git install
 git -v
 
+-> first time
+1. git init
+2. git status
+3. git add .
+4. git commit -m "message"
+5. git remote add origin _URL_
+6. git push origin master
+
+-> second
+
+-> change branch
+git branch -m branch_name
+
+
+-> work on branch
+default -> master
+
+only pc -> 
+
+github
